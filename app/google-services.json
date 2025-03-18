@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "854216405700",
+    "firebase_url": "https://logintest-68e9d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "logintest-68e9d",
+    "storage_bucket": "logintest-68e9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854216405700:android:b76142f10271c6959bcf91",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoH9-2KzSw0kFZTS4s81D-53TdZaAYnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854216405700:android:784c5c69174656529bcf91",
+        "android_client_info": {
+          "package_name": "com.example.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoH9-2KzSw0kFZTS4s81D-53TdZaAYnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
